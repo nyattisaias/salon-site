@@ -3,7 +3,7 @@
  * version: 2.0.6 (Tue, 31 Jul 2012)
  * @requires jQuery v1.6 or later
  *
- * Examples at http://fancyapps.com/fancybox/
+ * Examples at https://fancyapps.com/fancybox/
  * License: www.fancyapps.com/fancybox/#license
  *
  * Copyright 2012 Janis Skarnelis - janis@fancyapps.com
@@ -636,7 +636,7 @@
 		},
 
 		getViewport: function () {
-			// See http://bugs.jquery.com/ticket/6724
+			// See https://bugs.jquery.com/ticket/6724
 			return {
 				x: W.scrollLeft(),
 				y: W.scrollTop(),
@@ -1861,7 +1861,7 @@
 	};
 
 	if (!$.scrollbarWidth) {
-		// http://benalman.com/projects/jquery-misc-plugins/#scrollbarwidth
+		// https://benalman.com/projects/jquery-misc-plugins/#scrollbarwidth
 		$.scrollbarWidth = function() {
 			var parent, child, width;
 			parent = $('<div style="width:50px;height:50px;overflow:auto"><div/></div>').appendTo('body');

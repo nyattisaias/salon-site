@@ -13,6 +13,6 @@ What I can’t do with free bootstrap themes?
 
 IMPORTANT! 
 
-You have to keep this text and url in footer <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster
+You have to keep this text and url in footer <a href="https://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster
 
 If you want to remove this text & url you have to pay $99, contact with us to get our paypal account : team@bootstrapmaster.com
