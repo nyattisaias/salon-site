@@ -22,20 +22,20 @@
 =================================================================== */
 .color.white {
 	background: #fff;
-	color: #414141;
+	color: #212121;
 }
 
 .color.white i {
-	color: #414141;
+	color: #212121;
 }
 
 .color.white h2 {
-	color: #414141 !important;
+	color: #212121 !important;
 }
 
 .color.white h2 span {
 	background: #fff !important;
-	color: #414141 !important;
+	color: #212121 !important;
 }
 
 .color.white #page-title h2:before{
@@ -86,21 +86,21 @@
 }
 
 .color.black {
-	background: #414141;
+	background: #212121;
 	color: #fff;
 }
 
 .color.black i {
-	color: #414141;
+	color: #212121;
 }
 
 .color.black h2 span {
-	background: #414141;
+	background: #212121;
 }
 
 .color.yellow {
 	background: #ffeb41;
-	color: #414141;
+	color: #212121;
 }
 
 .color.yellow i {
@@ -219,7 +219,7 @@ a {
 	transition: all 0.5s ease-in-out;
 	font-size: 36px;
 	margin: 20px 10px 10px 10px;
-	color: #414141;
+	color: #212121;
 	float:left;;
 }
 
@@ -375,7 +375,7 @@ header {
 }
 
 .navbar .nav > li > a {
-	color: #414141;
+	color: #212121;
 	border-top: 0px solid transparent;
 	text-shadow: none;
 	font-size: 14px;
@@ -598,7 +598,7 @@ header {
 }
 
 .picture .item-description a {
-	color: #414141;
+	color: #212121;
 	font-size: 15px;
 	-webkit-transition: all 0.5s ease-in-out;
 	-moz-transition: all 0.5s ease-in-out;
@@ -1556,16 +1556,16 @@ a.buy:hover {
 =================================================================== */
 
 /* Color - 1 */
-.pricing-table .color-cccddd h3, .color-cccddd .buy {background-color: rgba(0,0,0,.15);}
-.pricing-table .color-cccddd h4 {background-color: rgba(0,0,0,.1);}
+.pricing-table .color-cccddd h3, .color-cccddd .buy {background-color: #db2623;}
+.pricing-table .color-cccddd h4 {background-color: #db2623;}
 
 /* Color - 2 */
-.pricing-table .color-666777 h3, .color-666777 .buy {background-color: rgba(0,0,0,.25);}
-.pricing-table .color-666777 h4 {background-color: rgba(0,0,0,.2);}
+.pricing-table .color-666777 h3, .color-666777 .buy {background-color: #db2623;}
+.pricing-table .color-666777 h4 {background-color: #db2623;}
 
 /* Color - 3 */
-.pricing-table .color-custom h3, .color-custom .buy {background-color: rgba(0,0,0,.35); padding: 15px 0;}
-.pricing-table .color-custom h4 {background-color: rgba(0,0,0,.3); padding: 35px 0;}
+.pricing-table .color-custom h3, .color-custom .buy {background-color: #db2623; padding: 15px 0;}
+.pricing-table .color-custom h4 {background-color: #db2623; padding: 35px 0;}
 
 .color-custom {
 	margin-top:-57px;
@@ -1574,7 +1574,7 @@ a.buy:hover {
 .pricing-table {
 	position: relative !important;
 	z-index: 5 !important;
-	margin: 60px 0px;
+	margin: 40px 0px;
 }
 
 .pricing-table.best-option {

@@ -197,7 +197,7 @@
 }
 
 .demo-1 .sl-slide h2 {
-	color: #000;
+	color: #c90f0f;
 	text-shadow: 0 0 1px #000;
 	padding: 20px;
 	position: absolute;
@@ -265,7 +265,7 @@
 /* First Slide */
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
-	background: #414141;
+	background: #212121;
 }
 
 /* Second Slide */
